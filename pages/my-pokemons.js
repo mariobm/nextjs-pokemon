@@ -1,7 +1,7 @@
 import { getSession, useSession } from 'next-auth/client';
 import tw from 'twin.macro';
 import Head from 'next/head';
-import NavBar from '../Components/Navbar';
+import NavBar from '../components/NavBar';
 import prisma from '../lib/prisma';
 import { Input, Button, SearchContainer, Grid, Card } from './index';
 import { FaSearch } from 'react-icons/fa';

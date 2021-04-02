@@ -1,7 +1,7 @@
 import { getCsrfToken, getSession, signIn } from 'next-auth/client';
 import { useState } from 'react';
 import tw, { styled } from 'twin.macro';
-import NavBar from '../Components/Navbar';
+import NavBar from '../components/NavBar';
 
 const Container = tw.div`relative bg-white max-w-7xl mx-auto px-6 my-6`;
 const Box = tw.div`bg-gray-50 rounded-xl relative overflow-hidden h-96 max-w-3xl w-full mx-auto shadow-lg`;
