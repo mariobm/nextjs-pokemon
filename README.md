@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Več o delavnici:
+https://frosted-telescope-fbf.notion.site/Delavnica-ogrodja-Next-js-63e05c563f1d4463b39e66633832e78c
 ## Getting Started
 
 First, run the development server:
